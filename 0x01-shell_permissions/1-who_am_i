@@ -1,2 +1,2 @@
 #!/bin/bash
-EUID=$(id -u)
+$(id -u)
